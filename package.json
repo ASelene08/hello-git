@@ -1,0 +1,24 @@
+{
+  "name": "practicagit",
+  "version": "1.0.0",
+  "description": "HI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASelene08/hello-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ASelene08/hello-git/issues"
+  },
+  "homepage": "https://github.com/ASelene08/hello-git#readme",
+  "dependencies": {
+    "moleculer": "^0.14.35"
+  }
+}
